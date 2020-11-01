@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page render html correctly 1`] = `
+"<div>
+  <div class=\\"idle\\">
+    <h1 id=\\"status-text\\">Please login to view you status</h1>
+  </div>
+  <hr>
+  <div class=\\"login\\">
+    <div class=\\"form-wrapper\\">
+      <form><label for=\\"username\\">
+          Username
+        </label> <input id=\\"username\\" type=\\"text\\" name=\\"username\\" class=\\"form-control\\"> <br> <label for=\\"password\\">
+          Password
+        </label> <input id=\\"password\\" type=\\"password\\" name=\\"password\\" class=\\"form-control\\"> <button id=\\"submit\\" type=\\"button\\">Login</button> <button id=\\"reset\\" type=\\"button\\">Reset</button></form>
+    </div>
+  </div>
+</div>"
+`;
